@@ -1,0 +1,15 @@
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\NotDefteri_BL.dll.config
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\NotDefteri_BL.dll
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\NotDefteri_BL.pdb
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\EntityFramework.dll
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\EntityFramework.xml
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\obj\Debug\NotDefteri_BL.csproj.AssemblyReference.cache
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\obj\Debug\NotDefteri_BL.csproj.CoreCompileInputs.cache
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\obj\Debug\NotDefteri_BL.csproj.CopyComplete
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\obj\Debug\NotDefteri_BL.dll
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\obj\Debug\NotDefteri_BL.pdb
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\NotDefteri_DAL.dll
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\NotDefteri_DAL.pdb
+D:\C#\BilgeAdam\ODEVLER\NotDefteriUygulaması_BernaDemirsoy\NotDefteri_BL\bin\Debug\NotDefteri_DAL.dll.config
